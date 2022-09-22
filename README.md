@@ -1,2 +1,3 @@
 # odin-recipe
-This is my first project on TOP foundations course. I will be building a recipe webpage with unordered and ordered lists, absolute and relative links, and images.
+This is my first project in TOP. It is a website that includes a main index page with links to some recipies.
+Only HTML with no css, but will add more later.
